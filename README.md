@@ -9,7 +9,7 @@ Collection of godot building blocks useful for building games!
 
 ![](2DMovementIn3DWorld/icon.png)
 
-Version: Godot_v3.4.4-stable_x11 (Ubuntu)
+Version: `Godot_v3.4.4-stable_x11` (Ubuntu)
 
 Project directory: `2DMovementIn3DWorld/`
 
